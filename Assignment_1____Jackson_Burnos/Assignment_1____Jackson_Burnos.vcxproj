@@ -128,9 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Assignment_1____Jackson_Burnos.cpp" />
+    <ClCompile Include="Definitions_Assignment_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Functions_Assignment_1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\A1input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

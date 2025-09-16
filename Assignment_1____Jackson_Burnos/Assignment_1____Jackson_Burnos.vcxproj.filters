@@ -18,10 +18,18 @@
     <ClCompile Include="Assignment_1____Jackson_Burnos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Definitions_Assignment_1.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Functions_Assignment_1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\A1input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
